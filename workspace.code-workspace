@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "discovery-server",
+			"path": "discovery-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"path": "livraria-beta-camada_servico/livraria-beta-camada_servico"
+		},
+		{
+			"path": "Pedidos de Livro"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
